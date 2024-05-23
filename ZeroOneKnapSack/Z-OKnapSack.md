@@ -34,3 +34,6 @@ The bottom-up approach starts from smaller subproblems and builds up to larger o
 
 ## Conclusion
 The 0/1 Knapsack problem is an important problem in dynamic programming, providing insights into optimizing resource allocation. By understanding its solutions and approaches, we can tackle similar optimization problems effectively.
+Here's a link to practice the 0/1 Knapsack Problem:
+[Practice the 0/1 Knapsack Problem Here](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+
